@@ -3,7 +3,7 @@
 
 This repository holds the answers to the 5<sup>th</sup> homework of Algorithmic Methods of Data Mining, Data Science course at Sapienza University of Rome. 
 
-This homework was carried out by Syed Ali Haider, Saeed Zns and Tansel Simsek (Group 12). 
+This homework was carried out by Syed Ali Haider, Saeed Zohoorianmoftakharkhodaparast and Tansel Simsek (Group 12). 
 
 The main goal of this homework was to explore Wikipedia's hyperlinks network and write important algorithms and functions from scratch, in order to further understand them. 
 
